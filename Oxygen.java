@@ -1,5 +1,5 @@
 import java.util.Scanner;
-//現在の酸素血中濃度を入力し、医療機関に連絡するか否かを判定するプログラム
+//現在の酸素血中濃度を入力し、医療機関に連絡するか否かを判断するプログラム
 class oxygen{
     public static void main(String args[]){
 
